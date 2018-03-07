@@ -1,0 +1,14 @@
+{
+  "name": "parse-graphql-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@parse-graphql/express": "^0.1.1",
+    "dotenv": "^5.0.1",
+    "express": "^4.16.2"
+  }
+}
